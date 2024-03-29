@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TOKocsis
-- 👀 I’m interested in ML based Computer Vision projects
-- 🌱 I’m currently learning Pytorch
-- 💞️ I’m looking to collaborate on any deep learning projects
+- 👀 I’m interested in HFT (High Frequency Trading)
+- 🌱 I’m currently learning Fix (Financial Information Exchange)
+- 💞️ I’m looking to collaborate on low latency C++ / Fintech projects
 - 📫 You can reach me on kocsis.tamas.oliver@gmail.com
 
 <!---
